@@ -1,4 +1,4 @@
-### Hi there 👋 Nirmala Koshiga
+### Hi there 👋 Nirmala Koshiga.
 
 
 <!--
