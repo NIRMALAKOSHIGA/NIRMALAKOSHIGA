@@ -4,5 +4,13 @@ I'm an aspiring data scientist who wishes to solve problems in the world by mean
 👀Reach me at:https://www.linkedin.com/in/nirmala-koshiga-457611233/
 
 Languages and Tools:-
-![image](https://user-images.githubusercontent.com/101269369/211523705-5137f623-3fd0-4060-a9d6-16d16c86733c.png)
+Python
+R
+Sql
+Visualization and Tools:-
+PowerBI
+Tableau
 
+Connect with me:-
+![image](https://user-images.githubusercontent.com/101269369/211524494-86768cfb-d574-4c1a-b0a3-bbdd2129f456.png)
+     https://www.linkedin.com/in/nirmala-koshiga-457611233/
