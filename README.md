@@ -10,12 +10,16 @@ I'm an aspiring data scientist who wishes to solve problems in the world by mean
 👀Reach me at:https://www.linkedin.com/in/nirmala-koshiga-457611233/
 
 Languages and Tools:-
+
+
 Python
 R
 Sql
 
 
 Visualization and Tools:-
+
+
 PowerBI
 Tableau
 
