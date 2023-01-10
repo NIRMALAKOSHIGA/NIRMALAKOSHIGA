@@ -13,7 +13,9 @@ Languages and Tools:-
 
 
 Python
+
 R
+
 Sql
 
 
@@ -21,6 +23,7 @@ Visualization and Tools:-
 
 
 PowerBI
+
 Tableau
 
 
