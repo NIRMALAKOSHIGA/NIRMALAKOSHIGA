@@ -1,4 +1,4 @@
-### Hi here👋 I'm Nirmala Koshiga.
+### Hi here 👋 I'm Nirmala Koshiga
 
 I'm an aspiring data analyst who wishes to solve problems in the world by means of data
 
