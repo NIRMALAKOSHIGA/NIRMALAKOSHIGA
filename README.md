@@ -18,6 +18,7 @@ R
 
 Sql
 
+Machine Learning
 
 Visualization and Tools:-
 
